@@ -8,7 +8,6 @@ A MERN stack Google Books API search engine refactored to use a GraphQL API buil
 * ⚖️  [Contributors](#Contributors)
 
 ## Installation
-$ git clone git@github.com:yulduzetta/book-search-engine.git
 $ cd book-search-engine
 $ npm install
 $ npm start
